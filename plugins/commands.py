@@ -50,8 +50,8 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('search here movie', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('Channel', url='https://t.me/MOLLYWO'),
-            InlineKeyboardButton('Group', url='https://t.me/TORRENTzv2')
+            InlineKeyboardButton('Main Channel', url='https://t.me/MOLLYWO'),
+            InlineKeyboardButton('main Group', url='https://t.me/TORRENTzv2')
             ],[
             InlineKeyboardButton('✗ Close the Menu ✗', callback_data='close_data')
         ]]
